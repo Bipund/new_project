@@ -1,4 +1,4 @@
-# new_project
+# demo_project
 
 ## Project setup
 ```
